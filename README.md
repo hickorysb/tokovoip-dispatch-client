@@ -1,6 +1,6 @@
 # Notice!
 
-A temporarily available command line client has been released you can find it [here](https://github.com/hickorysb/tokovoip-dispatch-client/releases/tag/temp)
+## THIS IS NO LONGER MAINTAINED
 
 ## TokoVoip Dispatch Client
 
